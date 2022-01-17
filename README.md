@@ -1,1 +1,2 @@
-# Assignment-Login-and-Registration
+# MEAN Mongo DB - Mongoose - Authentification - Modularization
+Coding Dojo
